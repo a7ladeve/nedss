@@ -7251,9 +7251,7 @@ form[name="go_page"] .button:hover {
 	transform: translate3d(0, 0, 0);
 	}
 }
-body {
-	height: auto;
-}
+
 html, body.chatbox {
 	height: 100%;
 }
