@@ -327,7 +327,6 @@ input:checked + .radio-check:after {
 	height: 48px;
 }
 .input-subtle, .inputbox, .gensmall, select {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.25);
 	border-radius: 0 !important;
 	display: block;
 	width: 100%;
