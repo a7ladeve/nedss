@@ -2940,21 +2940,8 @@ heaaader {
 	width: 36px;
 }
 }
-.post-author-details {
-	display: block;
-	margin-top: 22px;
-	text-align: right;
-	width: 100%;
-}
-.post-author-details span {
-	font-weight: bold;
-}
-@media 
-{
-.post-author-details {
-	display: none;
-}
-}
+
+
 .post-author-contact {
 	background-color: #626E74;
 	color: #FFFFFF;
