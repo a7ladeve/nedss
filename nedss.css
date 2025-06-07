@@ -46,19 +46,11 @@ body {
 	font-family: Open Sans, Arial, sans-serif;
 	font-size: 15px;
 }
-a {
-	color: #263238;
+body a, a {
+	
 	text-decoration: none;
 }
-a:hover {
-	color: #1E88E5;
-}
-a:visited {
-	color: #263238;
-}
-a:active {
-	color: #1E88E5;
-}
+
 .material-icons {
 	cursor: inherit;
 	user-select: none;
