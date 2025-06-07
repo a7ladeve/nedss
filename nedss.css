@@ -3436,11 +3436,7 @@ input:checked + .checkbox-row-check:after {
 	white-space: pre-wrap;
 	width: 100%;
 }
-.quick-reply-textarea-wrap {
-	padding: 6px 64px;
-	position: relative;
-	width: 100%;
-}
+
 .quick-reply-textarea-wrap .avatar-default {
 	position: absolute;
 	right: 69px;
